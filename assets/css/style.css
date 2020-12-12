@@ -65,7 +65,7 @@ p {
 }
 /* Hero Styles End*/
 
-/* Center Content Styles */
+/* Center Content Images Styles */
 
 .float-left {
     float: left;
@@ -84,7 +84,7 @@ p {
     color: #ffffff;
 }
 
-/* Center Content Style Ends */
+/* Center Content Images Styles End */
 
 /* Right side area content start*/
 
@@ -146,6 +146,8 @@ p {
 }
 /* right side area content end*/
 
+/*Center content starts */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -200,6 +202,10 @@ p {
     font-size: 36px;
 }
 
+/* center content ends */
+
+
+/*footer content */
 .footer {
     padding: 30px;
     clear: both;
