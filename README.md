@@ -1,6 +1,5 @@
 # horiseon-fresh
-
-This project involes refacractored code in the index.html file loacted in this repository.
-I've added relative paths to a style.css file that, that pulls in the images as they're shown on the live url. The style.css was then linked from the index.html file. 
+This repoository's includes an index.html and an assets folder which holds the css and images for the page linked below:
 
 
+This project also includes an updated html and css that makes the page more accessible to the user.
