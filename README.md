@@ -5,10 +5,10 @@ The page itself is meant to showcase the importance of accessibility on a webpag
 Screesnthos of the page I've updated for this project are listed below: 
 
 
-<<<<<<< HEAD
+
 This project also includes an updated html and css that makes the page more accessible to the user.
 
-=======
+
 ![image](https://user-images.githubusercontent.com/40181569/102034075-bbc19180-3d82-11eb-8729-14076731d041.png)
 ![image](https://user-images.githubusercontent.com/40181569/102034085-c2e89f80-3d82-11eb-935d-9ceaeebdaf36.png)
->>>>>>> 53080c1eac38a88a43456a30ccc0b1d2475a9561
+
