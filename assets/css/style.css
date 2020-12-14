@@ -18,7 +18,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 38px;
+    font-size: 28px;
 }
 
 .header h1 .seo {
@@ -56,7 +56,7 @@ p {
 /* Hero Styles Start*/
 
 .hero {
-    height: 700px;
+    height: 400px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
